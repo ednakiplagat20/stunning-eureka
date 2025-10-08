@@ -1,6 +1,4 @@
 # stunning-eureka
-# **Excel Sales Dashboard Project**
-
 ## **Overview**
 This project was created as part of my Excel data analysis assignment.  
 The goal was to clean and analyze sales data, then build an interactive dashboard to visualize key performance metrics and uncover insights across regions, channels, and product categories.  
